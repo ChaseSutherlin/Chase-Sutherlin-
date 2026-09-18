@@ -9,7 +9,7 @@ I am a mechanical engineering student with a strong focus on automotive manufact
 ## Engineering Projects
 
 ### Small-Scale 3-Speed Manual Transmission
-*Nov 2025 - Present | Manufacturing Systems Engineering Lab*[cite: 1, 2]
+*Nov 2025 - Present | Manufacturing Systems Engineering Lab*
 * **Mechanical Design:** Engineered a functional 3-speed manual gearbox, including gear profile calculations, shaft layouts, and a dog collar shifting mechanism.
 * **CAD Validation:** Translated hand-sketched concepts into SolidWorks models, utilizing assembly mating and interference detection to ensure a cohesive design.
 * **Precision Manufacturing:** Machined all internal components manually using mills and lathes, ensuring high-precision fit and functional tolerances.
@@ -24,13 +24,13 @@ I am a mechanical engineering student with a strong focus on automotive manufact
 *(Placeholder: I will add photos of the Jeep or Accord mid-repair here)*
 
 ### Automotive Program Launch & Manufacturing 
-*May 2026 - Present | Program Engineering Intern, Oakwood Group*[cite: 2]
+*May 2026 - Present | Program Engineering Intern, Oakwood Group*
 * **Program Launch:** Lead new program launches from kick-off through SOP, coordinating engineering, quality, tooling, and production teams to meet validation requirements.
 * **Quality & PPAP:** Develop and maintain APQP/PPAP documentation including Control Plans, PFMEA/DFMEA, Flow diagrams, DVPRS, IMDS, and test reports.
 * **Root Cause Analysis:** Diagnose tooling trial issues (material variation, trim defects, GD&T nonconformances) and implement corrective actions to improve process capability and reduce scrap.
 
 ### IREC '27 Sounding Rocket & Dynamic Air-Brakes
-*Aug 2024 - Present | Mechanical Lead, MASA-Dearborn*[cite: 1, 2]
+*Aug 2024 - Present | Mechanical Lead, MASA-Dearborn*
 * **Leadership:** Leading a 30+ undergraduate team, managing a $20,000 budget and an 8-month timeline to design, manufacture, and launch a competition sounding rocket.
 * **Aerodynamics:** Designed an active air-brake system using SolidWorks; conducted CFD and FEA simulations to validate aerodynamic drag and structural integrity.
 * **Advanced Composites:** Fabricated fiberglass fins and executed carbon fiber tip-to-tip layups to increase airframe rigidity and withstand high-velocity flight loads.
